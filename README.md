@@ -43,4 +43,4 @@ You have the freedom to do as you like with this permissive software, as long as
 
 ## Application Image
 
- ![Image of Application]( https://github.com/markwilson107/Readme-Generator/blob/main/images/deployed-application.png)
+ ![Image of Application](https://github.com/markwilson107/Fitness-Tracker/blob/main/images/deployed-application.PNG)
